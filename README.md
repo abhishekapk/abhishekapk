@@ -31,6 +31,6 @@ Very Enthusiastic about the new developing technology and have a thirst to learn
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abhishekapk.abhishekapk)
+![visitors](https://komarev.com/ghpvc/?username=abhishekapk)
 <br><br>
 ⭐ From [Abhishek Gupta](https://github.com/abhishekapk)
