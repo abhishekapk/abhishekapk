@@ -2,13 +2,13 @@
 
 ### <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
 
-I am **Abhishek Kumar Gupta** pursuing BTECH Degree in Computer Science and Engineering from <a href="https://http://www.ggu.ac.in/"> <b>Guru Ghasidas Vishwavidyalaya</b>, Bilaspur</a>. with unique and innovative perception..
+I am **Abhishek Kumar Gupta** an Associate Consultant at <a href="https://www.allstateindia.com/"> <b>Allstate India</b>, Bangalore</a> with having undergraduate in BTECH in Computer Science and Engineering from <a href="https://http://www.ggu.ac.in/"> <b>Guru Ghasidas Vishwavidyalaya</b>, Bilaspur</a>. with unique and innovative perception..
 
 ## About Me
 
 Very Enthusiastic about the new developing technology and have a thirst to learn them. Rarity is in my blood, I am among the six percent of the world population with an O Negative blood group.
 
-- 💻 I’m currently a Front-End Web Developer.
+- 💻 I’m currently a Full Stack Web Developer.
 
 - 🌱 I'm currently learning Deep Learning, Computer Vision, NLP.
 
